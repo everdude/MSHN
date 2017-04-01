@@ -1,0 +1,50 @@
+/* CSS Document */
+/* Grid Columns */
+.oneCol { width:6.383%; float:left; margin-right:2.128%; }
+.twoCol { width:14.894%; float:left; margin-right:2.128%; }
+.threeCol { width:23.404%; float:left; margin-right:2.128%; }
+.fourCol { width:31.915%; float:left; margin-right:2.128%; }
+.fiveCol { width:40.426%; float:left; margin-right:2.128%; }
+.sixCol { width:48.936%; float:left; margin-right:2.128%; }
+.sevenCol { width:57.447%; float:left; margin-right:2.128%; }
+.eightCol { width:65.957%; float:left; margin-right:2.128%; }
+.nineCol { width:74.468%; float:left; margin-right:2.128%; }
+.tenCol { width:82.979%; float:left; margin-right:2.128%; }
+.elevenCol { width:91.489%; float:left; margin-right:2.128%; }
+.twelveCol { width:100%; float:left; margin-right:0; }
+.last { margin:0; }
+.row { overflow:auto; margin:0; width:100%; }
+img.img-sizer { width:100%; }
+
+#accessible { position:absolute; top:-999999px }
+#container { position:relative; max-width:940px; padding: 0 10px; margin:0 auto; }
+
+/* Header */
+#contact { float:right; list-style:none; margin:0px auto; overflow:auto; }
+#contact li { display:inline-block; margin:0 0 0 20px; color:#5d2920 !important; }
+#contact > li:first-child { font-weight:bold;  }
+#contact li a { background-color:#919e39; padding:5px 10px; color:#fff; text-decoration:none; display:block; }
+header h1 { margin:50px 0; display:inline-block; }
+header h1 a { display:block; height:70px; width:220px; text-indent:-9999999px; background-image:url('../images/MSHN-logo.png'); background-size:220px 70px; }
+header nav ul{ overflow:auto; margin:0 auto; list-style:none; text-align:center; background-color:#77797b; font-size:14px;}
+header nav ul li { position:relative; display:inline; }
+header nav ul li a { display:inline-block; padding:10px 1.659%; color:#f1f1f1; text-decoration:none; word-spacing:-1px;  }
+header nav ul li a:hover, header nav ul li a:focus { background-color:#919e39; }
+body#about ul#MainNav a[title^="About"], body#resources ul#MainNav a[title^="Resources"], body#board ul#MainNav a[title^="Board"], body#news ul#MainNav a[title^="News"], body#provider ul#MainNav a[title^="Provider"], body#performance ul#MainNav a[title^="Performance"], body#policies ul#MainNav a[title^="Policies"] { text-decoration:underline; }
+
+/* Promo Billboard */
+#promo { max-height:300px; max-width:940px; margin:20px auto; position:relative; }
+section#promo h2 { position:absolute; right:80px; bottom:40px; color:#fff; border-left-color:#fff; }
+
+/* Content */
+#content { overflow:auto; }
+
+.compliance { color:#fff; font-size:18px; text-align:center; background:#5e79ab; padding:10px 30px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+.compliance span { font-size:38px; font-weight:bold; word-spacing:-2px; line-height:40px !important; }
+
+p#back-top { position:fixed; bottom:30px; right:20px }
+/* Footer*/
+footer nav ul { overflow:auto; margin:0 auto; list-style:none; text-align:center; }
+footer nav ul li { position:relative; display:inline; }
+footer nav ul li a { display:inline-block; padding:10px 1%; color:#fff; }
+footer a:hover { text-decoration:none; }

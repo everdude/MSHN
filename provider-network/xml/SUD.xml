@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<provider location="Alpena">
+		<name>Sunrise Centre</name>
+	</provider>
+	<provider location="Arenac">
+		<name>Sterling Area Health Center</name>
+	</provider>
+	<provider location="Bay">
+		<name>Recovery Pathways, LLC</name>
+	</provider>
+	<provider location="Bay">
+		<name>Neighborhood Resource Center</name>
+	</provider>
+	<provider location="Bay">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Bay">
+		<name>Saginaw Police Department</name>
+	</provider>
+	<provider location="Bay">
+		<name>Bay Pschological</name>
+	</provider>
+	<provider location="Bay">
+		<name>Boys and Girls Clubs of the Great Lakes Bay Region</name>
+	</provider>
+	<provider location="Bay">
+		<name>List Psychological Services, PLC</name>
+	</provider>
+	<provider location="Clare">
+		<name>Ten Sixteen Recovery Network</name>
+	</provider>
+	<provider location="Clinton">
+		<name>CMHA of CEI SAS</name>
+	</provider>
+	<provider location="Clinton">
+		<name>Clinton County Sheriff Department</name>
+	</provider>
+	<provider location="Eaton">
+		<name>Prevention Program Services</name>
+	</provider>
+	<provider location="Eaton">
+		<name>Eaton Behavioral Health</name>
+	</provider>
+	<provider location="Eaton">
+		<name>Eaton ISD/PPS</name>
+	</provider>
+	<provider location="Emmet">
+		<name>Harbor Hall, Inc</name>
+	</provider>
+	<provider location="Genesee">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Genesee">
+		<name>Catholic Charities of Shiawassee &amp; Genesee Counties</name>
+	</provider>
+	<provider location="Genesee">
+		<name>Consumer Services</name>
+	</provider>
+	<provider location="Genesee">
+		<name>Kairos Healthcare Corcoran Womens' Specialty</name>
+	</provider>
+	<provider location="Gladwin">
+		<name>Ten Sixteen Recovery Network</name>
+	</provider>
+	<provider location="Grand Traverse">
+		<name>Addiction Treatment Services, Dakoske Hall (Men)</name>
+	</provider>
+	<provider location="Grand Traverse">
+		<name>Addiction Treatment Services, Phoenix Hall (Women)</name>
+	</provider>
+	<provider location="Gratiot">
+		<name>Gratiot County Child Advocacy</name>
+	</provider>
+	<provider location="Gratiot">
+		<name>Addiction Solutions Counseling Center</name>
+	</provider>
+	<provider location="Gratiot">
+		<name>Gratiot County Community Mental Health</name>
+	</provider>
+	<provider location="Hillsdale">
+		<name>Life Challenge of Michigan</name>
+	</provider>
+	<provider location="Hillsdale">
+		<name>McCullough, Vargas &amp; Associates</name>
+	</provider>
+	<provider location="Huron">
+		<name>Huron County Health Department</name>
+	</provider>
+	<provider location="Huron">
+		<name>List Psychological Services, PLC</name>
+	</provider>
+	<provider location="Ingham">
+		<name>CMHA of CEI SAS</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Child and Family Charities</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Wellness, Inx</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Red Cedar Clinic</name>
+	</provider>
+	<provider location="Ingham">
+		<name>CMHA of CEI SAS</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Cristo Rey Community Center</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Victory Clinical Services</name>
+	</provider>
+	<provider location="Ingham">
+		<name>Professional Psychological &amp; Psychiatric Services (PPPS)</name>
+	</provider>
+	<provider location="Ingham">
+		<name>National Council on Alcoholism</name>
+	</provider>
+	<provider location="Ionia">
+		<name>Ionia County Health Department</name>
+	</provider>
+	<provider location="Ionia">
+		<name>Ionia Community Mental Health - SUD</name>
+	</provider>
+	<provider location="Ionia">
+		<name>Catholic Charities of West Michigan</name>
+	</provider>
+	<provider location="Isabella">
+		<name>Addiction Solutions Counseling Center</name>
+	</provider>
+	<provider location="Isabella">
+		<name>Ten Sixteen Recovery Network</name>
+	</provider>
+	<provider location="Isabella">
+		<name>Michigan Therapeutic Consultants. PC</name>
+	</provider>
+	<provider location="Isabella">
+		<name>Saginaw Chippewa Indian Tribe Behavioral Health</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Family Services &amp; Children's Aid</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Victory Clinical Services</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Professional Psychological &amp; Psychiatric Services (PPPS)</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Allegiance Hosptial/SAS</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Allegiance Addiction Recovery Center</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Center for Family Health</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Jackson County Recovery Court</name>
+	</provider>
+	<provider location="Jackson">
+		<name>Home of New Vision- Jackson Recovery Resource Center</name>
+	</provider>
+	<provider location="Kent">
+		<name>Salvation Army Turning Point</name>
+	</provider>
+	<provider location="Kent">
+		<name>Arbor Circle Outpatient Counseling Center</name>
+	</provider>
+	<provider location="Kent">
+		<name>Our Hope Association</name>
+	</provider>
+	<provider location="Kent">
+		<name>Cherry Street Services, Southside Health Center</name>
+	</provider>
+	<provider location="Kent">
+		<name>Pine Rest Jellema House (Men Only)</name>
+	</provider>
+	<provider location="Kent">
+		<name>Pine Rest Freedom House (Women Only)</name>
+	</provider>
+	<provider location="Kent">
+		<name>Wedgwood Christian Services, Grand Rapids (Adolescents Only)</name>
+	</provider>
+	<provider location="Kent">
+		<name>Cherry Street Services</name>
+	</provider>
+	<provider location="Macomb">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Mecosta">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Mecosta">
+		<name>Ten Sixteen Recovery Network</name>
+	</provider>
+	<provider location="Mecosta">
+		<name>Catholic Charities of West Michigan</name>
+	</provider>
+	<provider location="Midland">
+		<name>The Legacy Center for Community Success</name>
+	</provider>
+	<provider location="Midland">
+		<name>Ten Sixteen Recovery Network</name>
+	</provider>
+	<provider location="Midland">
+		<name>Family &amp; Children's Services of Mid-Michigan</name>
+	</provider>
+	<provider location="Montcalm">
+		<name>North Kent Guidance Services, LLC</name>
+	</provider>
+	<provider location="Montcalm">
+		<name>Wedgwood Christian Services, Greenville</name>
+	</provider>
+	<provider location="Montcalm">
+		<name>Cherry Street Health Promotion and Wellness</name>
+	</provider>
+	<provider location="Montcalm">
+		<name>Catholic Charities of West Michigan</name>
+	</provider>
+	<provider location="Newaygo">
+		<name>Arbor Circle Counseling</name>
+	</provider>
+	<provider location="Newaygo">
+		<name>Newaygo County R.E.S.A.</name>
+	</provider>
+	<provider location="Oakland">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Oakland">
+		<name>Completion House Inc</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Catholic Human Services</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Saginaw Odyssey House</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Saginaw Psychological Services</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Solutions Behavioral Health</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Professional Psychological &amp; Psychiatric Services (PPPS)</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Victory Clinical Services</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>First Ward Community Center</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>DOT Caring Centers, Inc.</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>HealthSource Saginaw</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Hearth Home</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Kairos Healthcare Family Center (Adolescent/Women Only)</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Prevention &amp; Youth Services</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Holy Cross Family/Youth Services</name>
+	</provider>
+	<provider location="Saginaw">
+		<name>Kairos Healthcare Fayette Campus (Men Only)</name>
+	</provider>
+	<provider location="Shiawassee">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Shiawassee">
+		<name>Shiawassee County Probate and Family Court - In Home Supervision Program</name>
+	</provider>
+	<provider location="Shiawassee">
+		<name>DOT Caring Centers, Inc.</name>
+	</provider>
+	<provider location="Shiawassee">
+		<name>Taylor Life Center</name>
+	</provider>
+	<provider location="St. Clair">
+		<name>Sacred Heart Rehabilitation Center</name>
+	</provider>
+	<provider location="Tuscola">
+		<name>New Light Consultants</name>
+	</provider>
+	<provider location="Tuscola">
+		<name>List Psychological Services, PLC</name>
+	</provider>
+</providers>
