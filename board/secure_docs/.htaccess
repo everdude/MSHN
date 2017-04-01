@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "board_docs"
+AuthUserFile "/home/midsta16/.htpasswds/public_html/board/secure_docs/passwd"
+require valid-user

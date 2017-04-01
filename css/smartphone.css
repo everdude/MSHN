@@ -1,0 +1,32 @@
+/* CSS Document */
+section#promo, footer nav { display:none; }
+#accessible { list-style:none; }
+#accessible li { margin:0 auto; }
+#accessible a { color:#fff; padding:10px 30px; display:block; text-align:center }
+#container { padding:10px; }
+
+/* header */
+header { text-align:center; }
+header ul#contact { list-style:none; margin:0; text-align:center; }
+header ul#contact li { display:inline-block; margin:10px 20px; }
+header ul#contact a { color:#919e39; }
+header h1 { margin:20px auto; display:inline-block; }
+header h1 a { display:block; height:70px; width:220px; text-indent:-9999999px; background-image:url('../images/MSHN-logo.png'); background-size:220px 70px; }
+
+header #MainNav { list-style:none; font-size:12px; margin:25px 0 0 0; background-color:#919e39; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -khtml-border-radius: 10px; }
+header #MainNav li { border-top:#fff 1px solid; }
+header #MainNav li:first-child {border-top:none; }
+header #MainNav a { color:#fff; display:block; text-decoration:none; font-weight:bold; padding: 20px 10px; }
+header nav{ background:url('../images/MenuDown.png') #919e39 no-repeat; background-size:280px 30px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -khtml-border-radius: 10px; min-height:10px; color:#fff; font-size:26px; padding:10px; margin:20px 0; }
+header #MainNav { display:none; list-style:none; font-size:12px; margin:25px 0 0 0; }
+.navChange { background:url('../images/MenuUp.png') #919e39 no-repeat !important; background-size:280px 30px !important; }
+
+.compliance { color:#fff; font-size:16px; text-align:center; background:#5e79ab; padding:10px 30px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+.compliance span { font-size:30px; font-weight:bold; word-spacing:-2px; line-height:40px !important; }
+
+/* footer */
+
+footer nav ul { overflow:auto; margin:0 auto; list-style:none; text-align:center; }
+footer nav ul li { position:relative; display:block; }
+footer nav ul li a { display:block; padding:10px 15px; color:#fff; }
+footer a:hover { text-decoration:none; }

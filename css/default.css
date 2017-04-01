@@ -1,0 +1,144 @@
+/* Phone */
+@media only screen and (max-width:350px){
+	section#promo, footer nav { display:none; }
+	#accessible { list-style:none; }
+	#accessible li { margin:0 auto; }
+	#accessible a { color:#fff; padding:10px 30px; display:block; text-align:center }
+	#container { padding:10px; }
+	table { position:relative; width:100%; border-collapse:collapse; overflow-x:scroll; }
+	thead, tbody { overflow-x:scroll; }
+
+	/* header */
+	header { text-align:center; }
+	header ul#contact { list-style:none; margin:0; text-align:center; }
+	header ul#contact li { display:inline-block; margin:10px 20px; }
+	header ul#contact a { color:#919e39; }
+	header h1 { margin:20px auto; display:inline-block; }
+	header h1 a { display:block; height:70px; width:220px; text-indent:-9999999px; background-image:url('../images/MSHN-Logo.png'); background-size:220px 70px; }
+	header #MainNav { list-style:none; font-size:12px; margin:25px 0 0 0; background-color:#919e39; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -khtml-border-radius: 10px; }
+	header #MainNav li { border-top:#fff 1px solid; }
+	header #MainNav li:first-child {border-top:none; }
+	header #MainNav a { color:#fff; display:block; text-decoration:none; font-weight:bold; padding: 20px 10px; }
+	header nav{ background:url('../images/MenuDown.png') #919e39 no-repeat; background-size:280px 30px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -khtml-border-radius: 10px; min-height:10px; color:#fff; font-size:26px; padding:10px; margin:20px 0; }
+	header #MainNav { display:none; list-style:none; font-size:12px; margin:25px 0 0 0; }
+	.navChange { background:url('../images/MenuUp.png') #919e39 no-repeat !important; background-size:280px 30px !important; }
+	.compliance { color:#fff; font-size:16px; text-align:center; background:#5e79ab; padding:10px 30px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+	.compliance span { font-size:30px; font-weight:bold; word-spacing:-2px; line-height:40px !important; }
+	ul.DeptPolicies span { display:block !important; max-width:100%; }
+	
+	/* footer */
+	footer nav ul { overflow:auto; margin:0 auto; list-style:none; text-align:center; }
+	footer nav ul li { position:relative; display:block; }
+	footer nav ul li a { display:block; padding:10px 15px; color:#fff; }
+	footer a:hover { text-decoration:none; }
+}
+/* Tablet */
+@media only screen and (min-width:351px) and (max-width:768px){
+	.oneCol { width:5.882%; float:left; margin-right:2.674%; }
+	.twoCol { width:14.439%; float:left; margin-right:2.674%; }
+	.threeCol { width:22.995%; float:left; margin-right:2.674%; }
+	.fourCol { width:31.551%; float:left; margin-right:2.674%; }
+	.fiveCol { width:40.107%; float:left; margin-right:2.674%; }
+	.sixCol { width:48.663%; float:left; margin-right:2.674%; }
+	.sevenCol { width:57.219%; float:left; margin-right:2.674%; }
+	.eightCol { width:65.775%; float:left; margin-right:2.674%; }
+	.nineCol { width:74.332%; float:left; margin-right:2.674%; }
+	.tenCol { width:82.888%; float:left; margin-right:2.674%; }
+	.elevenCol { width:91.444%; float:left; margin-right:2.674%; }
+	.twelveCol { max-width:748px; float:left; margin-right:2.674%; }
+	.last { margin-right:0; }
+	.margin { margin:20px 0; }
+	.row { overflow:auto; width:100%; }
+	.bottom { vertical-align:bottom; }
+	.center {text-align:center; margin-left:auto; margin-right:auto;}
+	img.img-sizer { width:100%; }
+	#accessible { position:absolute; top:-999999px }
+	#container { position:relative; max-width:748px; padding: 0 10px; margin:0 auto; }
+	
+	/* Header */
+	#contact { float:right; list-style:none; margin:0px auto; overflow:auto; }
+	#contact li { display:inline-block; margin:0 0 0 20px; color:#5d2920 !important; }
+	#contact > li:first-child { font-weight:bold;  }
+	#contact li a { background-color:#919e39; padding:5px 10px; color:#fff; text-decoration:none; display:block; }
+	header h1 { margin:50px 0; display:inline-block; }
+	header h1 a { display:block; height:70px; width:220px; text-indent:-9999999px; background-image:url('../images/MSHN-Logo.png'); background-size:220px 70px; }
+	header nav ul{ overflow:auto; margin:0 auto; list-style:none; text-align:center; background-color:#77797b; font-size:12px;}
+	header nav ul li { position:relative; display:inline; }
+	header nav ul li a { display:inline-block; padding:10px 1%; color:#f1f1f1; text-decoration:none; word-spacing:-1px;  }
+	header nav ul li a:hover, header nav ul li a:focus { background-color:#919e39; }
+	body#about ul#MainNav a[title^="About"], body#resources ul#MainNav a[title^="Resources"], body#board ul#MainNav a[title^="Board"], body#news ul#MainNav a[title^="News"], body#provider ul#MainNav a[title^="Provider"], body#performance ul#MainNav a[title^="Performance"], body#policies ul#MainNav a[title^="Policies"]{ text-decoration:underline; }
+	
+	/* Promo Billboard */
+	#promo { max-height:300px; max-width:940px; margin:20px auto; position:relative; }
+	section#promo h2 { position:absolute; right:20px; bottom:40px; color:#fff; border-left-color:#fff; }
+	
+	/* Content */
+	#content { overflow:auto; }
+	.compliance { color:#fff; font-size:14px; text-align:center; background:#5e79ab; padding:10px 30px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+	.compliance span { font-size:26px; font-weight:bold; word-spacing:-2px; line-height:40px !important; }
+	p#back-top { position:fixed; bottom:30px; right:20px }
+	
+	/* Footer*/
+	footer nav, footer p {font-size:11px; }
+	footer nav ul { overflow:auto; margin:0 auto; list-style:none; text-align:center; }
+	footer nav ul li { position:relative; display:inline; }
+	footer nav ul li a { display:inline-block; padding:10px .5%; color:#fff; }
+	footer a:hover { text-decoration:none; }
+	
+	/* Provider Network List */
+	select#location:before { content:'Select location: '; }
+	#pn-list { margin:0 !important; list-style:none !important; }
+	#pn-list .name { font-weight:bold; }
+	#pn-list .site:before { content:' Site: '; }
+	#pn-list li { border-bottom:1px #ccc solid; padding-bottom:10px; }	
+}
+/* Desktop */
+@media only screen and (min-width:769px){
+	/* Grid Columns */
+	.oneCol { width:6.383%; float:left; margin-right:2.128%; }
+	.twoCol { width:14.894%; float:left; margin-right:2.128%; }
+	.threeCol { width:23.404%; float:left; margin-right:2.128%; }
+	.fourCol { width:31.915%; float:left; margin-right:2.128%; }
+	.fiveCol { width:40.426%; float:left; margin-right:2.128%; }
+	.sixCol { width:48.936%; float:left; margin-right:2.128%; }
+	.sevenCol { width:57.447%; float:left; margin-right:2.128%; }
+	.eightCol { width:65.957%; float:left; margin-right:2.128%; }
+	.nineCol { width:74.468%; float:left; margin-right:2.128%; }
+	.tenCol { width:82.979%; float:left; margin-right:2.128%; }
+	.elevenCol { width:91.489%; float:left; margin-right:2.128%; }
+	.twelveCol { width:100%; float:left; margin-right:0; }
+	.last { margin:0; }
+	.row { overflow:auto; margin:0; width:100%; }
+	img.img-sizer { width:100%; }	
+	#accessible { position:absolute; top:-999999px }
+	#container { position:relative; max-width:940px; padding: 0 10px; margin:0 auto; }
+	
+	/* Header */
+	#contact { float:right; list-style:none; margin:0px auto; overflow:auto; }
+	#contact li { display:inline-block; margin:0 0 0 20px; color:#5d2920 !important; }
+	#contact > li:first-child { font-weight:bold;  }
+	#contact li a { background-color:#919e39; padding:5px 10px; color:#fff; text-decoration:none; display:block; }
+	header h1 { margin:50px 0; display:inline-block; }
+	header h1 a { display:block; height:70px; width:220px; text-indent:-9999999px; background-image:url('../images/MSHN-Logo.png'); background-size:220px 70px; }
+	header nav ul{ overflow:auto; margin:0 auto; list-style:none; text-align:center; background-color:#77797b; font-size:14px;}
+	header nav ul li { position:relative; display:inline; }
+	header nav ul li a { display:inline-block; padding:10px 1.659%; color:#f1f1f1; text-decoration:none; word-spacing:-1px;  }
+	header nav ul li a:hover, header nav ul li a:focus { background-color:#919e39; }
+	body#about ul#MainNav a[title^="About"], body#resources ul#MainNav a[title^="Resources"], body#board ul#MainNav a[title^="Board"], body#news ul#MainNav a[title^="News"], body#provider ul#MainNav a[title^="Provider"], body#performance ul#MainNav a[title^="Performance"], body#policies ul#MainNav a[title^="Policies"] { text-decoration:underline; }
+	
+	/* Promo Billboard */
+	#promo { max-height:300px; max-width:940px; margin:20px auto; position:relative; }
+	section#promo h2 { position:absolute; right:80px; bottom:40px; color:#fff; border-left-color:#fff; }
+	
+	/* Content */
+	#content { overflow:auto; }
+	.compliance { color:#fff; font-size:18px; text-align:center; background:#5e79ab; padding:10px 30px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+	.compliance span { font-size:38px; font-weight:bold; word-spacing:-2px; line-height:40px !important; }
+	p#back-top { position:fixed; bottom:30px; right:20px }
+
+	/* Footer*/
+	footer nav ul { overflow:auto; margin:0 auto; list-style:none; text-align:center; }
+	footer nav ul li { position:relative; display:inline; }
+	footer nav ul li a { display:inline-block; padding:10px .5%; color:#fff; }
+	footer a:hover { text-decoration:none; }
+}
