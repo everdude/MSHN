@@ -1,0 +1,15 @@
+<?xml version= "1.0"?>
+<rss version= "2.0">
+	<channel>
+		<item year="2015">
+			<title>MSHN Job Postings</title>
+			<description>Job seekers have access to the newest jobs in the behavioral health and substance use disorders fields. You may search by job title, agency or county. Instructions for applying are included with each posting.</description>
+			<link>https://www.macmhb.org/services/job-bank</link>
+		</item>
+		<item year="2014">
+			<title>Mid-State Health Network is formed as Part of State Consolidation</title>
+			<description>On January 1, 2014 Mid-State Health Network (MSHN) became the new Medicaid Managed Care Organization for a portion of Michigan’s behavioral health services. MSHN and its provider network are responsible for maintaining an adequate service delivery system for persons with Serious and Persistent Mental Illness, Serious Emotional Disturbances, Developmental Disabilities, and Substance Use Disorders.</description>
+			<link>http://midstatehealthnetwork.org/News/2014/pr-010314.php</link>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<policies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+	<policy chapter="">
+		<title></title>
+		<id></id>
+		<link></link>
+		<author></author>
+		<adopted></adopted>
+		<review_cycle></review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+	
+	 START NOTE  ONLY PUT BELOW IF HAS RELATED POLICIES 
+
+		<relatedP>
+			<Ptitle></Ptitle>
+			<Plink</Plink>
+		</relatedP>
+		
+		END NOTE
+		
+	</policy>
+-->
+	<policy chapter="Customer Service">
+		<title>Customer Handbook</title>
+		<id>001</id>
+		<link>Customer Service - Customer Handbook Policy.pdf</link>
+		<author>CS Committee</author>
+		<adopted>12.02.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Customer Service</Ptitle>
+			<Plink>Customer Service - Customer Service Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Customer Service">
+		<title>Customer Service Policy</title>
+		<id>002</id>
+		<link>Customer Service - Customer Service Policy.pdf</link>
+		<author>CS Committee</author>
+		<adopted>12.03.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Consumer Handbook</Ptitle>
+			<Plink>Customer Service - Customer Handbook Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Customer Service">
+		<title>Regional Consumer Advisory Council</title>
+		<id>003</id>
+		<link>Customer Servive - Regional Consumer Advisory Council.pdf</link>
+		<author>CS Committee</author>
+		<adopted>12.03.2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Customer Service Policy</Ptitle>
+			<Plink>Customer Service - Customer Service Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Travel</Ptitle>
+			<Plink>Finance - Travel 02042014.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Board Member Compensation</Ptitle>
+			<Plink>Finance - Board Member Compensation Policy Final 02042014.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Appointed Councils, Committees and Workgroups</Ptitle>
+			<Plink>Governance and General Management - Appointed Councils Committees and Workgroups 02042014.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Customer Service">
+		<title>Info Accessibility/Limited English Proficiency (LEP)</title>
+		<id>004</id>
+		<link>Customer Service - Information Accessiblity.pdf</link>
+		<author>Chief Compliance Officer, Customer Service Committee</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Consumer Service Policy</Ptitle>
+			<Plink>Customer Service - Customer Service Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Customer Service">
+		<title>Medicaid Beneficiary Appeals/Grievances</title>
+		<id>005</id>
+		<link>Customer Service - Medicaid Beneficiary Appeals Grievances.pdf</link>
+		<author>Chief Compliance Officer, Customer Service Committee</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Consumer Service Policy</Ptitle>
+			<Plink>Customer Service - Customer Service Policy.pdf</Plink>
+		</relatedP>		
+	</policy>
+	<policy chapter="Finance">
+		<title>Board Member Compensation</title>
+		<id>101</id>
+		<link>Finance - Board Member Compensation Policy Final 02042014.pdf</link>
+		<author>P. Keyes, CFO</author>
+		<adopted>02.04.2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Travel</Ptitle>
+			<Plink>Finance - Travel 02042014.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Finance">
+		<title>Investment</title>
+		<id>102</id>
+		<link>Finance - Investment 02042014.pdf</link>
+		<author>P. Keyes, CFO</author>
+		<adopted>02.04.2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Financial Management</Ptitle>
+			<Plink>Finance - Finance Management 11222013.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Finance">
+		<title>Travel</title>
+		<id>103</id>
+		<link>Finance - Travel 02042014.pdf</link>
+		<author>P. Keyes, CFO</author>
+		<adopted>02.04.2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Financial Management</Ptitle>
+			<Plink>Finance - Finance Management 11222013.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Finance">
+		<title>Cash Management</title>
+		<id>104</id>
+		<link>Finance -Cash Management 11222013.pdf</link>
+		<author>Finance Council</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Financial Management</Ptitle>
+			<Plink>Finance - Finance Management 11222013.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Finance">
+		<title>Risk Management – Internal Service Fund</title>
+		<id>105</id>
+		<link>Financial Management - Internal Service Fund.pdf</link>
+		<author>MSHN CFO</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Investments</Ptitle>
+			<Plink>Finance - Investment 02042014.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Finance">
+		<title>Financial Managemnt</title>
+		<id>106</id>
+		<link>Finance - Finance Management 11222013.pdf</link>
+		<author>Finance Committee</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Cash Management</Ptitle>
+			<Plink>Finance -Cash Management 11222013.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<procedure>Claims Procedure</procedure>
+			<procedureLink>Procedure_Claim.062414.pdf</procedureLink>
+		</relatedP>
+	</policy>
+	<policy chapter="General Management">
+		<title>Conflict of Interest Policy</title>
+		<id>201</id>
+		<link>General Management - Conflict of Interest 07292013.pdf</link>
+		<author>Legal Counsel</author>
+		<adopted>07.29.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="General Management">
+		<title>General Management</title>
+		<id>202</id>
+		<link>General Management - General_Management 11222013.pdf</link>
+		<author>CEO Workgroup</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="General Management">
+		<title>Compliance and Program Integrity</title>
+		<id>203</id>
+		<link>General Management - Program_Integrity_Policy.pdf</link>
+		<author>Chief Compliance Offic</author>
+		<adopted>11.01.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="General Management">
+		<title>Service Philosophy</title>
+		<id>205</id>
+		<link>Gen Mgt - Service Philosophy Policy 2.0.pdf</link>
+		<author>Utilization Management Committee and Medical Director</author>
+		<adopted>12.3.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date>July 1, 2014</review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Access System</Ptitle>
+			<Plink>Utilization Management - UM Access System Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="General Management">
+		<title>Monitoring Chief Executive Officer Performance</title>
+		<id>206</id>
+		<link>Gen. Mgmt - Monitoring CEO Performance.pdf</link>
+		<author>MSHN CEO</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>General Management</Ptitle>
+			<Plink>General Management - General_Management 11222013.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Board Governance</Ptitle>
+			<Plink>Gen Mgt - Board Goverance.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Executive Limitations</Ptitle>
+			<Plink>Gen. Mgmt. - Delegation to the Chief Executive Officer and Executive Con.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="General Management">
+		<title>Board Governance</title>
+		<id>207</id>
+		<link>Gen Mgt - Board Goverance.pdf</link>
+		<author>MSHN CEO and Executive Committee</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>General Management</Ptitle>
+			<Plink>General Management - General_Management 11222013.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Governance and General Management">
+		<title>Appointed Councils, Committees and Workgroups</title>
+		<id>301</id>
+		<link>Governance and General Management - Appointed Councils Committees and Workgroups 02042014.pdf</link>
+		<author>N. Miller</author>
+		<adopted>02.04.2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="Governance and General Management">
+		<title>Policy and Procedure Development &amp; Approval</title>
+		<id>302</id>
+		<link>Gen Mgt - Policy and Procedure Development &amp; Approval.pdf</link>
+		<author>Chief Executive Officer</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Board Governance</Ptitle>
+			<Plink>Gen Mgt - Board Goverance.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Governance and General Management">
+		<title>Delegation to the CEO and Executive Limitations</title>
+		<id>303</id>
+		<link>Gen. Mgmt. - Delegation to the Chief Executive Officer and Executive Con.pdf</link>
+		<author>MSHN Chief Executive Officer</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>General Management</Ptitle>
+			<Plink>General Management - General_Management 11222013.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Board Governance</Ptitle>
+			<Plink>Gen Mgt - Board Goverance.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Information Technology">
+		<title>Medicaid Information Management</title>
+		<id>401</id>
+		<link>Information Technology - Information_Management_Policy.pdf</link>
+		<author>Chief Information Officer</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="Provider Network">
+		<title>Provider Network Policy</title>
+		<id>501</id>
+		<link>Provider Network -  Network Provider Network Policy.pdf</link>
+		<author>Provider Network Management Committee</author>
+		<adopted>12.03.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+
+	</policy>
+	<policy chapter="Quality">
+		<title>Quality Management</title>
+		<id>601</id>
+		<link>Quality &amp; Compliance - Quality Management Policy.pdf</link>
+		<author>Chief Compliance Officer; QI Council</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date></revision_date>
+		<relatedP>
+			<Ptitle>Program Integrity</Ptitle>
+			<Plink>General Management - Program_Integrity_Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Customer Service</Ptitle>
+			<Plink>Customer Service - Customer Service Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Utilization Management</Ptitle>
+			<Plink>Utilization Management - UM Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Provider Network Management</Ptitle>
+			<Plink>Provider Network -  Network Provider Network Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Quality">
+		<title>Behavior Treatment Plans</title>
+		<id>602</id>
+		<link>Quality - Behavior Treatment Plan Review.pdf</link>
+		<author>Chief Compliance Officer, Quality Improvement Council</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle></review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Quality Management</Ptitle>
+			<Plink>Quality &amp; Compliance - Quality Management Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Quality">
+		<title>Critical Incidents</title>
+		<id>603</id>
+		<link>Quality - Critical Incident.pdf</link>
+		<author>Quality Improvement Council, Chief Compliance Officer</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Quality Management</Ptitle>
+			<Plink>Quality &amp; Compliance - Quality Management Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Service Delivery System">
+		<title>Habilitation Supports Waiver Policy</title>
+		<id>901</id>
+		<link>Habilitation Supports Finance Procedure.pdf</link>
+		<author>M. Neering, HSW Coordinator</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Service Philosophy</Ptitle>
+			<Plink>Genral Management - Service Philosophy Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Utilization Management Access</Ptitle>
+			<Plink>Utilization Management - UM Access System Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Utilization Management">
+		<title>Access System</title>
+		<id>701</id>
+		<link>Utilization Management - UM Access System Policy.pdf</link>
+		<author>UM Committee</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date>July 1, 2014</review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Utilization Management</Ptitle>
+			<Plink>Utilization Management - UM Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Service Philosophy</Ptitle>
+			<Plink>Genral Management - Service Philosophy Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Utilization Management">
+		<title>Utilization Management Policy</title>
+		<id>702</id>
+		<link>Utilization Management - UM Policy.pdf</link>
+		<author>UM Committee</author>
+		<adopted>11.22.2013</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date>July 1, 2014</review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>UM Access</Ptitle>
+			<Plink>Utilization Management - UM Access System Policy.pdf</Plink>
+		</relatedP>
+		<relatedP>
+			<Ptitle>Service Philosophy</Ptitle>
+			<Plink>Genral Management - Service Philosophy Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+	<policy chapter="Compliance">
+		<title>Compliance Line</title>
+		<id>801</id>
+		<link>Customer Service - Compliance Line.pdf</link>
+		<author>Chief Compliance Officer, QI Council</author>
+		<adopted>July 1, 2014</adopted>
+		<review_cycle>Annually</review_cycle>
+		<review_date></review_date>
+		<revision_date>July 1, 2014</revision_date>
+		<relatedP>
+			<Ptitle>Compliance and Program Integrity</Ptitle>
+			<Plink>General Management - Program_Integrity_Policy.pdf</Plink>
+		</relatedP>
+	</policy>
+
+</policies>
