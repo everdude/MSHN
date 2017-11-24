@@ -11,7 +11,6 @@
 <!--[if lte IE 8]><body class="ie" id="home"><![endif]-->
 <!--[if gte IE 9]><!--><body id="home"><!--<![endif]-->
 <?php include_once($_SERVER["DOCUMENT_ROOT"].'/includes/header.php'); ?>
-
 			<section id="promo">
 				<h2> New Hopes, New Opportunities</h2>
 				<img src="images/girl-fly.jpg" alt="photo of girl">			
